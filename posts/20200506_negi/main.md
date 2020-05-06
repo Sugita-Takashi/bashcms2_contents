@@ -20,6 +20,6 @@ Copyright: (C) 2020 takashi sugita
 
 ## ドキュメント
 
-[ネギ.pdf](ネギ.pdf)
+[ネギ.jpg](ネギ.jpg)
 [wiki](https://ja.wikipedia.org/wiki/%E3%83%8D%E3%82%AE)
 
